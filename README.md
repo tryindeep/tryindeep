@@ -10,4 +10,4 @@ Currently focused on deepening my full-stack skills and building projects in pub
 
 📍 Kolkata, India · 🎓 BCA, Institute of Engineering & Management
 
-[LinkedIn](https://linkedin.com/in/tryindeep) · [X](https://x.com/tryindeep)
+I keep diving deep into engineering details and share my learnings across my [X](https://x.com/tryindeep).
