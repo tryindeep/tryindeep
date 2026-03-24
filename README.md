@@ -18,8 +18,8 @@ Software Engineer with 2+ years of experience at **LTIMindtree**, where I worked
 I specialize in building performant, maintainable UIs — with a focus on component architecture, state management, and API integration.
 
 - 🎓 BCA — Institute of Engineering & Management
-- 💼 Ex-Software Engineer, LTIMindtree (Aug 2023 – Feb 2026)
-- 🛠️ Stack: React.js · TypeScript · Redux · Node.js · REST APIs
+- 💼 Ex-Engineer, LTIMindtree (Aug 2023 – Feb 2026)
+- 🛠️ Stack: React.js · TypeScript · Node.js · REST APIs
 - 📍 Kolkata, India
 
 ---
@@ -40,7 +40,7 @@ At LTIMindtree, I contributed to the **LTIM ULTIMA** internal enterprise platfor
 ### Tech Stack
 
 **Frontend**
-`React.js` `TypeScript` `Redux` `Context API` `HTML/CSS`
+`React.js` `TypeScript` `Context API` `HTML/CSS`
 
 **Backend**
 `Node.js` `REST APIs`
