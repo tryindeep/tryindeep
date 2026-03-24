@@ -1,71 +1,13 @@
-<h1 align="center">Hi, I'm Tridip Pramanick 👋</h1>
+I'm a Full Stack Developer with 2+ years of experience building scalable web applications.
+At LTIMindtree, I worked on the frontend architecture of an internal enterprise platform —
+refactoring critical modules, reducing page load by 21%, cutting redundant API calls by 30%,
+and improving the overall performance score from 65% to 82%.
 
-<p align="center">
-  Full Stack Developer &nbsp;·&nbsp; React & Node.js &nbsp;·&nbsp; Building scalable web applications
-</p>
+I work primarily with React, TypeScript, Redux, and Node.js. I care about writing clean,
+maintainable code and building UIs that are both fast and reliable.
 
-<p align="center">
-  <a href="https://linkedin.com/in/tryindeep">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://x.com/tryindeep">X (Twitter)</a>
-</p>
+Currently focused on deepening my full stack skills and building projects in public.
 
----
+📍 Kolkata, India · 🎓 BCA, Institute of Engineering & Management
 
-### About Me
-
-Software Engineer with 2+ years of experience at **LTIMindtree**, where I worked on the frontend architecture of an internal enterprise application.
-
-I specialize in building performant, maintainable UIs — with a focus on component architecture, state management, and API integration.
-
-- 🎓 BCA — Institute of Engineering & Management
-- 💼 Ex-Software Engineer, LTIMindtree (Aug 2023 – Feb 2026)
-- 🛠️ Stack: React.js · TypeScript · Redux · Node.js · REST APIs
-- 📍 Kolkata, India
-
----
-
-### What I worked on at LTIMindtree
-
-At LTIMindtree, I contributed to the **LTIM ULTIMA** internal enterprise platform:
-
-- Refactored critical frontend modules — reduced page load time by **21%** and redundant API calls by **30%**
-- Built **9+ reusable components**, improving Redux state flow and API lifecycle handling
-- Resolved an infinite re-rendering bug caused by improper React hook dependencies
-- Implemented performance optimizations using **code splitting, React.memo, useMemo, and useCallback**
-- Improved application performance score from **65% → 82%**
-- Reduced production bugs by **10%**
-
----
-
-### Tech Stack
-
-**Frontend**
-`React.js` `TypeScript` `Redux` `Context API` `HTML/CSS`
-
-**Backend**
-`Node.js` `REST APIs`
-
-**Tools**
-`Git` `GitHub` `VS Code`
-
----
-
-### Projects
-
-> 🚧 Coming soon — currently building.
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TryInDeep&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryInDeep&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center">
-  <i>Open to SDE roles at product-based companies. Let's connect.</i>
-</p>
+[LinkedIn](https://linkedin.com/in/tryindeep) · [X](https://x.com/tryindeep)
