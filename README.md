@@ -6,7 +6,7 @@ and improving the overall performance score from 65% to 82%.
 I work primarily with React, TypeScript, Redux, and Node.js. I care about writing clean,
 maintainable code and building UIs that are both fast and reliable.
 
-Currently focused on deepening my full-stack skills and building projects in public.
+Currently focused on deepening my full-stack skills and building projects in public.(coming soon)
 
 📍 Kolkata, India · 🎓 BCA, Institute of Engineering & Management
 
